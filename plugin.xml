@@ -2,6 +2,7 @@
 <plugin id="com.andrewtremblay.plugintest" version="0.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
 	<name>Plugin-Example</name>
 	<AUTHOR>Andrew Tremblay</AUTHOR>
+	<license>Apache 2.0</license>
 	<description>A Test</description>
 	<js-module name="Plugin-Example" src="www/Plugin-Example.js">
 		<clobbers target="cordova.plugins.Plugin-Example" />
